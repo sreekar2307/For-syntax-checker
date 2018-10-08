@@ -1,0 +1,27 @@
+class learning{
+public static void main(String args[])
+for(int i=0;i<10;i++)
+{
+System.out.println();
+}
+for(;;)
+{
+}
+for(a;;)
+{
+}
+for(;;a++,a=a+1)
+{
+}
+for(int sadasd = 0;asdasd)
+{
+}
+for[] 
+{
+}
+for(int s_afaf;asd;asd)
+{
+}
+}
+}
+
